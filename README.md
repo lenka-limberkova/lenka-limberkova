@@ -4,7 +4,7 @@
 
 ## 🧭 About me
 
-I spent over ten years in the e-commerce world — from warehouse operations and procurement all the way to managing IT projects. I learned to think in systems, communicate with dev teams and stakeholders, and most importantly: ask *why* before I say *how*.
+I spent almost a decade in the e-commerce world — from warehouse operations and procurement all the way to managing IT projects. I learned to think in systems, communicate with dev teams and stakeholders, and most importantly: ask *why* before I say *how*.
 
 Now I'm moving closer to the building itself. I want to write code, not just write tickets. ✍️
 
@@ -32,7 +32,7 @@ AI Tools          ████████████░░░  intentional dai
 - **APIs** — understanding how systems talk to each other, next on the roadmap
 
 ### 🎯 Building toward
-Creating my own web application — end to end. That's the goal.
+Creating my own web application end to end. That's the goal.
 
 ---
 
@@ -48,7 +48,7 @@ Creating my own web application — end to end. That's the goal.
 
 ## 🤖 How I work with AI
 
-AI is part of my workflow — and I use it intentionally. It helps me explore next steps, suggests directions, and speeds up research. But I'm always the one at the wheel: I decide what gets built, I understand the context, and I stay in control of every decision. AI advises. I lead.
+AI is part of my workflow and I use it intentionally. It helps me explore next steps, suggests directions, and speeds up research. But I'm always the one at the wheel: I decide what gets built, I understand the context, and I stay in control of every decision. AI advises. I lead.
 
 ---
 
