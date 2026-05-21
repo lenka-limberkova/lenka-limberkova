@@ -87,6 +87,6 @@ If you have an interesting opportunity or idea for collaboration, feel free to r
 
 ## 📬 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/lenka-limberkova)
 
 ---
