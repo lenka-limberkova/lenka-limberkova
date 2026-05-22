@@ -1,12 +1,12 @@
 # Hi, I'm Lenka 👋
-
+Creative technologist · Frontend-oriented problem solver · Someone who understands users AND systems
 ---
 
 ## 🧭 About me
 
 I spent almost a decade in the e-commerce world - from warehouse operations and procurement all the way to managing IT projects. I learned to think in systems, communicate with dev teams and stakeholders, and most importantly: ask *why* before I say *how*.
 
-Now I'm moving closer to the building itself. I want to write code, not just write tickets. ✍️
+Now I'm moving from coordinating digital products to building them, combining technical thinking with a visual and user-focused approach. I want to write code, not just write tickets. ✍️
 
 I'm a continuous learner always picking up something new, connecting the dots, and pushing my knowledge further.
 
@@ -81,7 +81,7 @@ When I'm not staring at an editor, I'm probably:
 ## 🌱 Right now
 
 I'm in a deliberate transition - recharging, learning, and looking for projects that actually mean something.  
-If you have an interesting opportunity or idea for collaboration, feel free to reach out. 🙂
+I'm always open to interesting ideas and creative collaborations. 🙂
 
 ---
 
