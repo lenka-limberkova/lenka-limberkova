@@ -1,6 +1,6 @@
 # Hi, I'm Lenka 👋
+
 Creative technologist · Frontend-oriented problem solver · Someone who understands users AND systems
----
 
 ## 🧭 About me
 
