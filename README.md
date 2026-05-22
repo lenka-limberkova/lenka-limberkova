@@ -2,6 +2,7 @@
 
 Creative technologist · Frontend-oriented problem solver · Someone who understands users AND systems
 
+📍 Czech Republic
 ## 🧭 About me
 
 I spent almost a decade in the e-commerce world - from warehouse operations and procurement all the way to managing IT projects. I learned to think in systems, communicate with dev teams and stakeholders, and most importantly: ask *why* before I say *how*.
