@@ -15,15 +15,15 @@ I'm a continuous learner always picking up something new, connecting the dots, a
 
 ## 🛠️ Hard Skills
 
-```
-HTML & CSS        ████████████░░░  solid foundation
-SQL & PostgreSQL  ████████░░░░░░░  working knowledge
-Git & Terminal    ████████░░░░░░░  comfortable with CLI & version control
-VS Code           ████████████░░░  daily driver
-Figma             ██████░░░░░░░░░  basics, growing
-Affinity Suite    ████░░░░░░░░░░░  levelling up
-AI Tools          ████████████░░░  intentional daily use
-```
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=gnubash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Affinity](https://img.shields.io/badge/Affinity%20Suite-1B72BE?style=flat&logo=affinity&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-AI-black?style=flat&logoColor=white)
 
 ### 🗂️ Tools & Platforms
 **Project & team management:** Jira · Freelo · Asana · Miro
