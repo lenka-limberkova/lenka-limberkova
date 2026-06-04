@@ -47,12 +47,6 @@ Creating my own web application end to end. That's the goal.
 
 ---
 
-## 🤖 How I work with AI
-
-AI is part of my workflow and I use it intentionally. It helps me explore next steps, suggests directions, and speeds up research. But I'm always the one at the wheel: I decide what gets built, I understand the context, and I stay in control of every decision. AI advises. I lead.
-
----
-
 ## 🚀 Projects
 
 | Project | Description | Links |
