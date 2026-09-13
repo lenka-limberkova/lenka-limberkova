@@ -98,8 +98,6 @@ I'm interested in roles where I can combine:
 
 I'm particularly interested in **IT / Business Analysis, Technical Analysis, Application / Solution Analysis and technically-oriented Product roles**.
 
-Long term, I'm working toward being able to build and understand systems end to end — from the database and API to the frontend.
-
 ## 📬 Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/lenka-limberkova)
