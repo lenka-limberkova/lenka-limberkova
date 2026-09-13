@@ -1,6 +1,6 @@
 # Hi, I'm Lenka 👋
 
-**IT / Business Analyst · Frontend-oriented problem solver · Business + technical thinking**
+**Technical problem solver · Business analysis · Data · Frontend**
 
 📍 Czech Republic
 
@@ -28,9 +28,9 @@ I want to understand how things work under the hood, not just write tickets abou
 
 ### Currently learning
 
-- **JavaScript** — building stronger programming fundamentals and interactive web applications
-- **REST APIs & JSON** — understanding how frontend, backend, and external services communicate
-- **Data modelling & system design** — connecting business requirements with technical solutions
+- **JavaScript** — strengthening programming fundamentals and building interactive web applications
+- **APIs & backend fundamentals** — working with REST APIs, Node.js and Express
+- **Data modelling & system design** — connecting business requirements, data and technical solutions
 
 ### Tools & Platforms
 
@@ -52,10 +52,22 @@ I want to understand how things work under the hood, not just write tickets abou
 
 | Project | Description | Links |
 |--------|-------------|-------|
-| **Build Your Plate** | A visual, exploratory calorie & macro calculator where users combine individual ingredients and instantly see how changing quantities affects the nutritional result | 🚧 In progress |
+| **Food Calculator** | Nutrition calculator using USDA FoodData Central. Search Foundation Foods, combine ingredients, adjust quantities and calculate calories and macros. Built with HTML, CSS, JavaScript, Node.js and Express, with a server-side API integration and deployment on Railway. | [🌐 Live](https://food-calculator-production-e4d1.up.railway.app/) · [💻 Repository]([YOUR_GITHUB_REPO](https://github.com/lenka-limberkova/food-calculator)) · [🎨 Figma]([YOUR_FIGMA_URL](https://www.figma.com/design/CnWUsBBq6tZ3ES0ewTsLiL/food-calculator-app?node-id=37-2&t=rFXuCsr0jmcKPnWG-1)) |
 | **Tomsova Foto** | Complete website for a photographer — design, development and deployment | [🌐 Live](https://tomsovafoto.cz/) · 🔒 Repo private |
 
 I'm also building frontend projects and completing challenges to strengthen my HTML, CSS and JavaScript skills.
+
+## 🤖 How I work with AI
+
+I use AI as a practical tool for **learning, problem solving, prototyping and development**.
+
+Rather than treating AI output as a finished solution, I use it to move faster through unfamiliar technical problems: I define what I want to achieve, break the problem down, evaluate proposed solutions, integrate them into the project, test the result, debug issues and iterate.
+
+This allows me to work beyond the boundaries of what I can currently code entirely from scratch while continuously expanding my technical understanding.
+
+I'm transparent about AI-assisted work. For example, in my Food Calculator project, a significant part of the JavaScript and backend implementation was generated with AI assistance, while I was responsible for the product concept, UX/UI, requirements, technical decisions, integration, testing, debugging and deployment.
+
+I see AI literacy as the ability to **ask the right questions, understand the problem, evaluate the output and turn it into a working result** — not simply generate code.
 
 ## 💼 Background
 
