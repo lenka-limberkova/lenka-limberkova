@@ -77,7 +77,7 @@ Before moving into IT, I spent several years in e-commerce operations, B2B and p
 This gives me a perspective on software that goes beyond the technology itself — I understand the **business processes and problems the technology is supposed to solve.**
 
 ### External Case Study
-[GRIZLY e-commerce project by Programia](https://www.programia.cz/velikan-grizly-cz-ma-novy-e-shop-jak-jsme-od-zakladu-tvorili-web-znameho-obchodu-s-vyzivou/#:~:text=Jako%20projektov%C3%BD%20mana%C5%BEer,dob%C5%99e%20namazan%C3%BD%20stroj.))
+[GRIZLY e-commerce project by Programia](https://www.programia.cz/velikan-grizly-cz-ma-novy-e-shop-jak-jsme-od-zakladu-tvorili-web-znameho-obchodu-s-vyzivou/#:~:text=Jako%20projektov%C3%BD%20mana%C5%BEer,dob%C5%99e%20namazan%C3%BD%20stroj.)
 
 
 ## 🎯 What I'm looking for
