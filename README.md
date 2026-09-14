@@ -52,7 +52,7 @@ I want to understand how things work under the hood, not just write tickets abou
 
 | Project | Description | Links |
 |--------|-------------|-------|
-| **Food Calculator** | Nutrition calculator using USDA FoodData Central. Search Foundation Foods, combine ingredients, adjust quantities and calculate calories and macros. Built with HTML, CSS, JavaScript, Node.js and Express, with a server-side API integration and deployment on Railway. | [🌐 Live](https://food-calculator-production-e4d1.up.railway.app/) · [💻 Repository]([(https://github.com/lenka-limberkova/food-calculator)]) · [🎨 Figma]([(https://www.figma.com/design/CnWUsBBq6tZ3ES0ewTsLiL/food-calculator-app?node-id=37-2&t=rFXuCsr0jmcKPnWG-1)]) |
+| **Food Calculator** | Nutrition calculator using USDA FoodData Central. Search Foundation Foods, combine ingredients, adjust quantities and calculate calories and macros. Built with HTML, CSS, JavaScript, Node.js and Express, with a server-side API integration and deployment on Railway. | [🌐 Live](https://food-calculator-production-e4d1.up.railway.app/) · [💻 Repository](https://github.com/lenka-limberkova/food-calculator) · [🎨 Figma](https://www.figma.com/design/CnWUsBBq6tZ3ES0ewTsLiL/food-calculator-app?node-id=37-2&t=rFXuCsr0jmcKPnWG-1) |
 | **Tomsova Foto** | Complete website for a photographer — design, development and deployment | [🌐 Live](https://tomsovafoto.cz/) · 🔒 Repo private |
 
 I'm also building frontend projects and completing challenges to strengthen my HTML, CSS and JavaScript skills.
