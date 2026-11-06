@@ -18,14 +18,12 @@ Over time, I realized that the part I enjoy most is understanding the problem, d
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=gnubash&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### Tools & Platforms
 
-**Project & team management:** Jira · Freelo · Asana · Miro
-
-**Design:** Figma · Affinity Suite
+**Project & team management:** Freelo · Asana · Miro
 
 ## 🧠 What I bring
 
