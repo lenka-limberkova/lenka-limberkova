@@ -43,7 +43,6 @@ Over time, I realized that the part I enjoy most is understanding the problem, d
 |--------|-------------|-------|
 | **E-shop SQL Database** | Fictional e-commerce database in PostgreSQL, designed from scratch: 8 normalised tables, 1,500 sample orders and a growing collection of SQL queries answering real business questions (sales, margins, stock, customers). *Work in progress.* | [💻 Repository](https://github.com/lenka-limberkova/eshop-sql-postgresql) |
 | **Food Calculator** | Nutrition calculator using USDA FoodData Central. Search Foundation Foods, combine ingredients, adjust quantities and calculate calories and macros. Built with AI assistance, with the goal of understanding how a third-party API integration and a backend work end to end. | [🌐 Live](https://food-calculator-production-e4d1.up.railway.app/) · [💻 Repository](https://github.com/lenka-limberkova/food-calculator) · [🎨 Figma](https://www.figma.com/design/CnWUsBBq6tZ3ES0ewTsLiL/food-calculator-app?node-id=37-2&t=rFXuCsr0jmcKPnWG-1) |
-
 | **Tomsova Foto** | Complete website for a photographer — design, development and deployment | [🌐 Live](https://tomsovafoto.cz/) · 🔒 Repo private |
 
 Additional repositories include frontend projects and coding challenges focused on HTML, CSS and JavaScript.
