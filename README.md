@@ -6,7 +6,7 @@
 
 ## 🧭 About me
 
-I've 10 years in e-commerce, growing from warehouse operations and procurement into IT project management.
+I've spent 10 years in e-commerce, growing from warehouse operations and procurement into IT project management.
 
 For the past two years, I've worked closely with developers on digital products — analyzing business problems, defining requirements, exploring solution options, preparing specifications, testing implementations, and driving features from idea to production.
 
@@ -20,19 +20,19 @@ Over time, I realized that the part I enjoy most is understanding the problem, d
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![IS Pohoda](https://img.shields.io/badge/IS%20Pohoda-0072BC?style=flat)
 
 ### Tools & Platforms
 
 **Project & team management:** Freelo · Asana · Miro
 **Business systems:** IS Pohoda
+**Methods & practices:** Scrum · functional and regression testing · data analysis · wireframing
+
 
 ## 🧠 What I bring
 
 - **Systems thinking** — I look at both the bigger picture and the details
-- **Business + technical perspective** — I understand business processes as well as the development environment
+- **Business + technical perspective** — I understand business processes as well as the development environment, and I've worked closely with developers on turning requirements into working software
 - **Problem solving** — I like exploring different solutions before deciding how to implement one
-- **Developer collaboration** — I've worked closely with developers and understand the realities of turning requirements into working software
 - **Ownership** — I like taking a problem from understanding it through to a working result
 
 ## 🚀 Projects
@@ -58,22 +58,12 @@ I see AI literacy as the ability to **ask the right questions, understand the pr
 
 ### IT Project Manager / Product Owner · E-commerce
 
-For the last two years, I worked on digital products from the business side, closely collaborating with software developers.
+- Led a year-long migration and launch of a new e-shop with a new provider, including data migration and ERP integration, going live without downtime
+- Managed the e-shop's ongoing development in monthly sprints and delivered dozens of features from requirements to production
+- Turned requirements from across the company (purchasing, marketing, finance, customer support, logistics) into functional specifications, user stories and wireframes for a team of 10+ developers
+- Tested new functionality (functional and regression testing), including data checks, and took part in release decisions
 
-My work included:
-
-- launching a new e-commerce website
-- analyzing business needs and translating them into technical requirements
-- designing and discussing solution options
-- writing specifications and user stories
-- creating wireframes
-- collaborating directly with developers
-- testing implemented functionality
-- coordinating features from idea through release
-
-Before moving into IT, I spent several years in e-commerce operations, B2B and procurement.
-
-This gives me a perspective on software that goes beyond the technology itself — I understand the **business processes and problems the technology is supposed to solve.**
+Before moving into IT, I spent several years in e-commerce operations, B2B and procurement, including leading a purchasing team responsible for 7,000+ products.
 
 ### External Case Study
 [GRIZLY e-commerce project by Programia](https://www.programia.cz/velikan-grizly-cz-ma-novy-e-shop-jak-jsme-od-zakladu-tvorili-web-znameho-obchodu-s-vyzivou/#:~:text=Jako%20projektov%C3%BD%20mana%C5%BEer,dob%C5%99e%20namazan%C3%BD%20stroj.)
@@ -86,4 +76,4 @@ I'm particularly interested in products where data quality, user experience and 
 
 ## 📬 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/lenka-limberkova)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenka-limberkova)
