@@ -13,17 +13,19 @@ For the past two years, I've worked closely with developers on digital products 
 Over time, I realized that the part I enjoy most is understanding the problem, designing the solution, and getting closer to the technical implementation.
 ## 🛠️ Technical Skills
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![IS Pohoda](https://img.shields.io/badge/IS%20Pohoda-0072BC?style=flat)
 
 ### Tools & Platforms
 
 **Project & team management:** Freelo · Asana · Miro
+**Business systems:** IS Pohoda
 
 ## 🧠 What I bring
 
@@ -54,7 +56,7 @@ I see AI literacy as the ability to **ask the right questions, understand the pr
 
 ## 💼 Background
 
-### IT Project Manager · E-commerce
+### IT Project Manager / Product Owner · E-commerce
 
 For the last two years, I worked on digital products from the business side, closely collaborating with software developers.
 
