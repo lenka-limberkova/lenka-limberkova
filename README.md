@@ -24,8 +24,10 @@ Over time, I realized that the part I enjoy most is understanding the problem, d
 ### Tools & Platforms
 
 **Project & team management:** Freelo · Asana · Miro
+
 **Business systems:** IS Pohoda
-**Methods & practices:** Scrum · functional and regression testing · data analysis · wireframing
+
+**Methods & practices:** Agile development · functional and regression testing · data analysis · wireframing
 
 
 ## 🧠 What I bring
