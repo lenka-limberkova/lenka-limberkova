@@ -1,17 +1,16 @@
 # Hi, I'm Lenka 👋
 
-**Technical problem solver · Business analysis · Data · Frontend**
+**Business / Systems Analyst with a technical edge**
 
 📍 Czech Republic
 
 ## 🧭 About me
 
-I've spent almost a decade in e-commerce, growing from warehouse operations and procurement into IT project management.
+I've 10 years in e-commerce, growing from warehouse operations and procurement into IT project management.
 
 For the past two years, I've worked closely with developers on digital products — analyzing business problems, defining requirements, exploring solution options, preparing specifications, testing implementations, and driving features from idea to production.
 
-Over time, I realized that the part I enjoy most isn't coordinating the work — it's **understanding the problem, designing the solution, and getting closer to the technical implementation.**
-
+Over time, I realized that the part I enjoy most is understanding the problem, designing the solution, and getting closer to the technical implementation.
 ## 🛠️ Technical Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
